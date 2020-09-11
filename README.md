@@ -16,3 +16,14 @@ This notebook is about practicing the data analysis steps of loading the data in
 * non_striker - Name of the batsman on non-striker's end
 * bowler - Name of the bowler
 * is_super_over - Is this a super-over (0 or 1 for NO or YES)
+* wide_runs - Runs given as wide
+* bye_runs - Runs given as bye
+* legbye_runs - Runs given as leg-bye
+* noball_runs - Runs given as no-ball
+* penalty_runs - Runs given as penalty
+* batsman_runs - Runs scored by the batsman
+* extra_runs - Total extra runs (Wide, Bye, No-ball, Penalty)
+* total_runs - Total runs from the ball (extra_runs, batsman_runs)
+* player_dismissed - Name of the player dismissed (If out)
+* dismissal_kind - How the player was dismissed (If out)
+* fielder - Fielder involved in the dismissal (If any)
